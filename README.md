@@ -41,7 +41,7 @@ Busco oportunidades donde conectar **personas, tecnología y resultados** — en
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**Hotel Quotation Generator**](https://github.com/vrandob/Hotel-Quotation-Generator) | Generador de presupuestos de alojamiento hotelero con cálculo de IVA, comisión agencia, proforma PDF y exportación Excel. Desplegado en producción. Nació de una necesidad real del trabajo diario. | HTML · CSS · JS · SheetJS |
+| [**Hotel Quotation Generator**](https://vrando.me/hotel/presupuesto.html) | Generador de presupuestos de alojamiento hotelero con cálculo de IVA, comisión agencia, proforma PDF y exportación Excel. Desplegado en producción. Nació de una necesidad real del trabajo diario. | HTML · CSS · JS · SheetJS |
 | [**EverArt Patrimonio**](https://everartpatrimonio.com/) | Portfolio web profesional para una restauradora de arte. Galería coverflow filtrable, slideshow automático, menú responsive y formulario de contacto con FormSubmit. Sitio en producción. | HTML · CSS · JS |
 | [**PMDM Room 3**](https://github.com/vrandob/PMDM_Room3) | App Android con doble persistencia: reservas de paseos a caballo con Room (offline) y gestor de herramientas IA con Firebase (nube). Arquitectura MVVM + Navigation Component. | Kotlin · Room · Firebase · MVVM |
 | [**HLC5 MedicionFincas**](https://github.com/vrandob/HLC5_MedicionFincas) | App Android para medir fincas trazando polígonos sobre Google Maps. Calcula área (m²) y perímetro (m) de la superficie delimitada en tiempo real. | Kotlin · Google Maps API |
