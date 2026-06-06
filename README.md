@@ -87,9 +87,9 @@ Busco oportunidades donde conectar **personas, tecnología y resultados** — en
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrandob&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrandob&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrandob&layout=compact&hide_border=true&theme=default&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrandob&layout=compact&hide_border=true&theme=default)
 
 </div>
 
