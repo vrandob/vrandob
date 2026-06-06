@@ -12,15 +12,17 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Recepcionista Polivalente y Coordinador Operativo** en Novotel Suites Málaga (Accor) desde 2011, con una trayectoria de más de 20 años en el sector hotelero internacional y servicios varios, abarcando operaciones, gestión de equipos y experiencia de cliente.
+Profesional con más de 20 años de experiencia en **gestión operativa, coordinación de equipos y dirección de actividades** en empresas del sector turístico y de servicios. Mi trayectoria abarca la dirección y coordinación de equipos multidisciplinares en empresas del sector servicios y ocio, la gestión operativa en entornos hoteleros internacionales, y el control presupuestario y supervisión de la experiencia de cliente — siempre con foco en resultados, procesos y personas.
 
-En 2023 decidí complementar ese perfil con el **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Portada Alta. No para cambiar de sector, sino para entenderlo desde dentro: la tecnología que mueve los hoteles, los sistemas que optimizan la venta directa, los procesos que marcan la diferencia entre un cliente fiel y uno perdido.
+El **Máster en Creación y Dirección de Empresas** (IMFE-ESESA) me proporcionó una base sólida en gestión estratégica, análisis de negocio, planificación y toma de decisiones que ha guiado mi forma de abordar cada proyecto desde entonces.
 
-Busco oportunidades donde conectar **personas, tecnología y resultados** — en consultoría tecnológica hotelera, software Travel Tech, transformación digital o customer success.
+En 2023 añadí a ese perfil el **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**, convencido de que entender la tecnología desde dentro es hoy imprescindible para quien quiere liderar procesos de transformación digital, implementar sistemas de gestión o conectar el negocio con las soluciones que lo hacen más eficiente.
 
-- 🏨 **+20 años** en operaciones empresariales · Accor Hoteles · Grupo Vid · Royal Premier
-- 🎓 **DAM** en curso · IES Portada Alta · Desde 2023
-- 📐 **Máster** en Creación y Dirección de Empresas · IMFE-ESESA · 2006
+Busco oportunidades en **consultoría, gestión de proyectos tecnológicos, operaciones o customer success** — en empresas del sector turístico, Travel Tech, software de gestión o cualquier entorno donde la combinación de visión de negocio y capacidad técnica marque la diferencia.
+
+- 🏢 **+20 años** en gestión operativa, coordinación y dirección · Sector turístico
+- 🎓 **Máster** en Creación y Dirección de Empresas · IMFE-ESESA · 2006
+- 💻 **DAM** en curso · IES Portada Alta · Desde 2023
 - 🎓 **Diplomatura en Turismo** · Universidad de Málaga · 1999–2002
 - 📍 Málaga, Andalucía
 - 🌍 **ES** Nativo · **EN** B2/C1 · **FR** e **IT** Básico
