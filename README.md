@@ -43,12 +43,34 @@ Busco oportunidades en **consultoría, gestión de proyectos tecnológicos, oper
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [**Cupo**](https://cupo.vrando.me/) | Plataforma B2B de reservas de grupo para hoteles: expedientes con tarifas, condiciones, hitos de pago y proforma PDF, panel de ocupación por tipo de habitación y sincronización con Opera Cloud (simulada con WireMock). Incluye cliente Android para el reservador. Desplegado en mi servidor, con acceso por usuario; el código es privado. Nace de mi trabajo diario con Opera en recepción. | Java 21 · Spring Boot · PostgreSQL · React · Vite · Tailwind · Kotlin |
 | [**Hotel Quotation Generator**](https://vrando.me/hotel/presupuesto.html) | Generador de presupuestos de alojamiento hotelero con cálculo de IVA, comisión agencia, proforma PDF y exportación Excel. Desplegado en producción. Nació de una necesidad real del trabajo diario. | HTML · CSS · JS · SheetJS |
 | [**EverArt Patrimonio**](https://everartpatrimonio.com/) | Portfolio web profesional para una restauradora de arte. Galería coverflow filtrable, slideshow automático, menú responsive y formulario de contacto con FormSubmit. Sitio en producción. | HTML · CSS · JS |
 | [**PMDM Room 3**](https://github.com/vrandob/PMDM_Room3) | App Android con doble persistencia: reservas de paseos a caballo con Room (offline) y gestor de herramientas IA con Firebase (nube). Arquitectura MVVM + Navigation Component. | Kotlin · Room · Firebase · MVVM |
 | [**HLC5 MedicionFincas**](https://github.com/vrandob/HLC5_MedicionFincas) | App Android para medir fincas trazando polígonos sobre Google Maps. Calcula área (m²) y perímetro (m) de la superficie delimitada en tiempo real. | Kotlin · Google Maps API |
 | [**AD03 Gestión Docente**](https://github.com/vrandob/AD03-GestionDocente-jpa-hibernate-mariadb-crud) | Sistema CRUD de gestión docente con JPA/Hibernate, mapeo de claves compuestas y automatización por ficheros de entrada. | Java · JPA · Hibernate · MariaDB |
 | [**PHP CRUD Books**](https://github.com/vrandob/PHP-CRUD-MySQL-books-db) | Aplicación web CRUD completa para gestión de catálogo de libros, con interfaz en navegador. | PHP · MySQL · HTML |
+
+<details>
+<summary><b>Capturas de Cupo</b> (la aplicación requiere usuario y el repositorio es privado)</summary>
+
+<br>
+
+**Web · panel del hotel**
+
+<img src="assets/cupo/01-dashboard.png" alt="Cupo: dashboard con expedientes activos, facturación confirmada, próximo hito de pago y ocupación por tipo de habitación" width="600">
+
+<img src="assets/cupo/02-expedientes.png" alt="Cupo: listado de expedientes con estado" width="600">
+
+<img src="assets/cupo/03-expediente-detalle.png" alt="Cupo: detalle de un expediente con condiciones, hitos de pago, proforma e historial" width="600">
+
+**Android · cliente del reservador**
+
+<img src="assets/cupo/04-android-login.png" alt="Cupo Android: inicio de sesión" width="220">
+&nbsp;&nbsp;
+<img src="assets/cupo/05-android-expedientes.png" alt="Cupo Android: lista de expedientes" width="220">
+
+</details>
 
 ---
 
